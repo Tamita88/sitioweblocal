@@ -14,7 +14,8 @@ html{
 }
 
 .productos,
-.nav_itemprincipal{
+.nav_itemprincipal,
+.comentario-form{
     scroll-snap-align: center;
     scroll-snap-stop: always;
 }
